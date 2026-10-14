@@ -1,0 +1,5823 @@
+{
+  "metadata": {
+    "dataset": "mba_colleges_cutoffs",
+    "title": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+    "meaning": "Lower rank number = more competitive; null = seat not filled / not available",
+    "sourceDate": "2025-10-04",
+    "seatType": "RoK",
+    "collegeCount": 290,
+    "categories": [
+      "GM",
+      "1G",
+      "2AG",
+      "2BG",
+      "3AG",
+      "3BG",
+      "SCG",
+      "STG",
+      "NKN"
+    ]
+  },
+  "colleges": [
+    {
+      "code": "B252",
+      "name": "R.V. INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 1,
+      "cutoffs": {
+        "GM": 109,
+        "1G": 698,
+        "2AG": 336,
+        "2BG": 565,
+        "3AG": 226,
+        "3BG": 139,
+        "SCG": 709,
+        "STG": 391,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B240",
+      "name": "PES UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 2,
+      "cutoffs": {
+        "GM": 277,
+        "1G": 1036,
+        "2AG": 731,
+        "2BG": 1048,
+        "3AG": 412,
+        "3BG": 583,
+        "SCG": 1803,
+        "STG": 3009,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B217",
+      "name": "M. S. RAMAIAH INSTITUTE OF TECHNOLOGY - MBA",
+      "city": "Bengaluru",
+      "rank": 3,
+      "cutoffs": {
+        "GM": 339,
+        "1G": 1194,
+        "2AG": 706,
+        "2BG": 768,
+        "3AG": 462,
+        "3BG": 482,
+        "SCG": 2150,
+        "STG": 1756,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B136",
+      "name": "BMS COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 4,
+      "cutoffs": {
+        "GM": 451,
+        "1G": 1090,
+        "2AG": 867,
+        "2BG": 1449,
+        "3AG": 524,
+        "3BG": 615,
+        "SCG": 2328,
+        "STG": 3326,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B158",
+      "name": "DAYANANDA SAGAR COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 5,
+      "cutoffs": {
+        "GM": 534,
+        "1G": 1451,
+        "2AG": 918,
+        "2BG": 1068,
+        "3AG": 553,
+        "3BG": 672,
+        "SCG": 2947,
+        "STG": 3713,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B413",
+      "name": "RV UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 6,
+      "cutoffs": {
+        "GM": 734,
+        "1G": 1702,
+        "2AG": 1514,
+        "2BG": 2112,
+        "3AG": 844,
+        "3BG": 982,
+        "SCG": 3622,
+        "STG": 7813,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B362",
+      "name": "M S RAMAIAH COLLEGE OF ARTS, SCIENCE AND COMMERCE",
+      "city": "Bengaluru",
+      "rank": 7,
+      "cutoffs": {
+        "GM": 775,
+        "1G": 1864,
+        "2AG": 1483,
+        "2BG": 1511,
+        "3AG": 1094,
+        "3BG": 1087,
+        "SCG": 3758,
+        "STG": 4126,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B348",
+      "name": "M. S. RAMAIAH UNIVERSITY OF APPLIED SCIENCES",
+      "city": "Bengaluru",
+      "rank": 8,
+      "cutoffs": {
+        "GM": 952,
+        "1G": 2173,
+        "2AG": 1374,
+        "2BG": 2482,
+        "3AG": 1143,
+        "3BG": 1136,
+        "SCG": 4300,
+        "STG": 5686,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B131",
+      "name": "BANGALORE INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 9,
+      "cutoffs": {
+        "GM": 1222,
+        "1G": 3133,
+        "2AG": 2191,
+        "2BG": 2561,
+        "3AG": 1370,
+        "3BG": 1574,
+        "SCG": 6648,
+        "STG": 5157,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B137",
+      "name": "BMS INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 10,
+      "cutoffs": {
+        "GM": 1350,
+        "1G": 2803,
+        "2AG": 2143,
+        "2BG": 2911,
+        "3AG": 1509,
+        "3BG": 1468,
+        "SCG": 5618,
+        "STG": 7661,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B157",
+      "name": "DAYANANDA SAGAR COLLEGE OF ARTS, SCIENCE & COMMERCE",
+      "city": "Bengaluru",
+      "rank": 11,
+      "cutoffs": {
+        "GM": 1365,
+        "1G": 3405,
+        "2AG": 2572,
+        "2BG": 2532,
+        "3AG": 1817,
+        "3BG": 1630,
+        "SCG": 6031,
+        "STG": 9976,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B365",
+      "name": "DAYANANDA SAGAR UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 12,
+      "cutoffs": {
+        "GM": 1885,
+        "1G": 3591,
+        "2AG": 3555,
+        "2BG": 4615,
+        "3AG": 2534,
+        "3BG": 2636,
+        "SCG": 12638,
+        "STG": 12484,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B260",
+      "name": "REVA UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 13,
+      "cutoffs": {
+        "GM": 1941,
+        "1G": 3066,
+        "2AG": 3829,
+        "2BG": 6571,
+        "3AG": 2805,
+        "3BG": 2679,
+        "SCG": 6940,
+        "STG": 11820,
+        "NKN": 2408
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B268",
+      "name": "SAHYADRI COLLEGE OF ENGINEERING & MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 14,
+      "cutoffs": {
+        "GM": 1961,
+        "1G": 16693,
+        "2AG": 7175,
+        "2BG": 12930,
+        "3AG": 3921,
+        "3BG": 2991,
+        "SCG": 21018,
+        "STG": 10362,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B261",
+      "name": "MOUNT CARMEL COLLEGE",
+      "city": "Bengaluru",
+      "rank": 15,
+      "cutoffs": {
+        "GM": 2019,
+        "1G": 4477,
+        "2AG": 3118,
+        "2BG": 4380,
+        "3AG": 3163,
+        "3BG": 2293,
+        "SCG": 8063,
+        "STG": 22494,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B156",
+      "name": "DAYANANDA SAGAR ACADEMY OF TECHNOLOGY AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 16,
+      "cutoffs": {
+        "GM": 2234,
+        "1G": 4052,
+        "2AG": 3450,
+        "2BG": 4963,
+        "3AG": 2915,
+        "3BG": 2828,
+        "SCG": 9937,
+        "STG": 11275,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B142",
+      "name": "K L E TECHNOLOGICAL UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 17,
+      "cutoffs": {
+        "GM": 2255,
+        "1G": 9544,
+        "2AG": 3497,
+        "2BG": 6390,
+        "3AG": 3345,
+        "3BG": 2872,
+        "SCG": 21201,
+        "STG": 25602,
+        "NKN": 2623
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B300",
+      "name": "ST. JOSEPH ENGINEERING COLLEGE",
+      "city": "Bengaluru",
+      "rank": 18,
+      "cutoffs": {
+        "GM": 2307,
+        "1G": 19470,
+        "2AG": 7801,
+        "2BG": 4953,
+        "3AG": 4540,
+        "3BG": 2605,
+        "SCG": 23527,
+        "STG": 12750,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B263",
+      "name": "RNS INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 19,
+      "cutoffs": {
+        "GM": 2336,
+        "1G": 6904,
+        "2AG": 3922,
+        "2BG": 8129,
+        "3AG": 2681,
+        "3BG": 3145,
+        "SCG": 12345,
+        "STG": 19530,
+        "NKN": 2560
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B230",
+      "name": "NEW HORIZON COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 20,
+      "cutoffs": {
+        "GM": 2619,
+        "1G": 5793,
+        "2AG": 4636,
+        "2BG": 6741,
+        "3AG": 2904,
+        "3BG": 3209,
+        "SCG": 8391,
+        "STG": 16133,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B151",
+      "name": "CMR INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 21,
+      "cutoffs": {
+        "GM": 2747,
+        "1G": 4178,
+        "2AG": 5289,
+        "2BG": 6470,
+        "3AG": 2847,
+        "3BG": 3773,
+        "SCG": 7132,
+        "STG": 11885,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B138",
+      "name": "BNM INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 23,
+      "cutoffs": {
+        "GM": 3036,
+        "1G": 4913,
+        "2AG": 5908,
+        "2BG": 11737,
+        "3AG": 3391,
+        "3BG": 3898,
+        "SCG": 26031,
+        "STG": 28065,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B407",
+      "name": "DAYANANDA SAGAR BUSINESS ACADEMY",
+      "city": "Bengaluru",
+      "rank": 24,
+      "cutoffs": {
+        "GM": 3193,
+        "1G": 3484,
+        "2AG": 6613,
+        "2BG": 6623,
+        "3AG": 3488,
+        "3BG": 4502,
+        "SCG": 20253,
+        "STG": 11118,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B292",
+      "name": "JSS SCIENCE AND TECHNOLOGY UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 25,
+      "cutoffs": {
+        "GM": 3306,
+        "1G": 11574,
+        "2AG": 6310,
+        "2BG": 8740,
+        "3AG": 3586,
+        "3BG": 3576,
+        "SCG": 17352,
+        "STG": 14963,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B078",
+      "name": "RNS FIRST GRADE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 26,
+      "cutoffs": {
+        "GM": 3478,
+        "1G": 4977,
+        "2AG": 5872,
+        "2BG": 6997,
+        "3AG": 3710,
+        "3BG": 4564,
+        "SCG": 17839,
+        "STG": 21973,
+        "NKN": 3615
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B106",
+      "name": "ACHARYA'S BANGALORE B-SCHOOL",
+      "city": "Bengaluru",
+      "rank": 27,
+      "cutoffs": {
+        "GM": 3521,
+        "1G": 7131,
+        "2AG": 5898,
+        "2BG": 11591,
+        "3AG": 3907,
+        "3BG": 4488,
+        "SCG": 26693,
+        "STG": 21389,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B207",
+      "name": "KLE SOCIETY'S INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH",
+      "city": "Bengaluru",
+      "rank": 28,
+      "cutoffs": {
+        "GM": 3739,
+        "1G": 7265,
+        "2AG": 6089,
+        "2BG": 5242,
+        "3AG": 6849,
+        "3BG": 4987,
+        "SCG": 20449,
+        "STG": 30422,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B199",
+      "name": "K L E TECHNOLOGICAL UNIVERSITY, BELGAUM CAMPUS",
+      "city": "Belagavi",
+      "rank": 29,
+      "cutoffs": {
+        "GM": 3772,
+        "1G": 13183,
+        "2AG": 11330,
+        "2BG": 7708,
+        "3AG": 7465,
+        "3BG": 5437,
+        "SCG": 29933,
+        "STG": null,
+        "NKN": 4783
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B381",
+      "name": "CHRIST ACADEMY INSTITUTE FOR ADVANCED STUDIES",
+      "city": "Bengaluru",
+      "rank": 30,
+      "cutoffs": {
+        "GM": 3863,
+        "1G": 6747,
+        "2AG": 6886,
+        "2BG": 10590,
+        "3AG": 4024,
+        "3BG": 4701,
+        "SCG": 13128,
+        "STG": 19777,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B164",
+      "name": "DR. AMBEDKAR INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 31,
+      "cutoffs": {
+        "GM": 4323,
+        "1G": 4391,
+        "2AG": 7307,
+        "2BG": 28247,
+        "3AG": 4424,
+        "3BG": 4792,
+        "SCG": 8611,
+        "STG": 25520,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B196",
+      "name": "JSS ACADEMY OF TECHNICAL EDUCATION",
+      "city": "Bengaluru",
+      "rank": 32,
+      "cutoffs": {
+        "GM": 4457,
+        "1G": 7402,
+        "2AG": 6497,
+        "2BG": 14241,
+        "3AG": 5264,
+        "3BG": 5900,
+        "SCG": 14263,
+        "STG": 19075,
+        "NKN": 5048
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B285",
+      "name": "SIDDAGANGA INSTITUTE OF TECHNOLOGY - MBA",
+      "city": "Bengaluru",
+      "rank": 33,
+      "cutoffs": {
+        "GM": 4579,
+        "1G": 5578,
+        "2AG": 7228,
+        "2BG": 8443,
+        "3AG": 6015,
+        "3BG": 5284,
+        "SCG": 15107,
+        "STG": 14747,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B200",
+      "name": "K.L.S. GOGTE INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 34,
+      "cutoffs": {
+        "GM": 4723,
+        "1G": 14040,
+        "2AG": 11265,
+        "2BG": 10136,
+        "3AG": 5390,
+        "3BG": 5130,
+        "SCG": 29599,
+        "STG": 29244,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B105",
+      "name": "ACHARYA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 35,
+      "cutoffs": {
+        "GM": 5112,
+        "1G": 7340,
+        "2AG": 7332,
+        "2BG": 17362,
+        "3AG": 5661,
+        "3BG": 5397,
+        "SCG": 18869,
+        "STG": 24949,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B104",
+      "name": "ACHARYA INSTITUTE OF MANAGEMENT AND SCIENCES",
+      "city": "Bengaluru",
+      "rank": 36,
+      "cutoffs": {
+        "GM": 5311,
+        "1G": 9226,
+        "2AG": 9034,
+        "2BG": 23386,
+        "3AG": 6456,
+        "3BG": 8076,
+        "SCG": 27913,
+        "STG": 19491,
+        "NKN": 6173
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B315",
+      "name": "VIDYAVARDHAKA COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 37,
+      "cutoffs": {
+        "GM": 5359,
+        "1G": 17958,
+        "2AG": 14779,
+        "2BG": null,
+        "3AG": 7138,
+        "3BG": 8872,
+        "SCG": 19865,
+        "STG": 25777,
+        "NKN": 6043
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B149",
+      "name": "CMR UNIVERSITY (Campus 1)",
+      "city": "Bengaluru",
+      "rank": 38,
+      "cutoffs": {
+        "GM": 5491,
+        "1G": 8182,
+        "2AG": 7444,
+        "2BG": 11340,
+        "3AG": 7838,
+        "3BG": 8795,
+        "SCG": 17345,
+        "STG": 22379,
+        "NKN": 6807
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B095",
+      "name": "AMITY UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 39,
+      "cutoffs": {
+        "GM": 5531,
+        "1G": 5879,
+        "2AG": 8300,
+        "2BG": 10559,
+        "3AG": 5653,
+        "3BG": 10433,
+        "SCG": 10459,
+        "STG": 19426,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B197",
+      "name": "JYOTI NIVAS COLLEGE (MBA)",
+      "city": "Bengaluru",
+      "rank": 40,
+      "cutoffs": {
+        "GM": 5575,
+        "1G": 11652,
+        "2AG": 15919,
+        "2BG": 6638,
+        "3AG": 9505,
+        "3BG": 14511,
+        "SCG": 29131,
+        "STG": 27713,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B150",
+      "name": "CMR UNIVERSITY (Campus 2)",
+      "city": "Bengaluru",
+      "rank": 41,
+      "cutoffs": {
+        "GM": 5713,
+        "1G": 7390,
+        "2AG": 9626,
+        "2BG": 16131,
+        "3AG": 8334,
+        "3BG": 8811,
+        "SCG": 22491,
+        "STG": null,
+        "NKN": 7268
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B239",
+      "name": "PES INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 42,
+      "cutoffs": {
+        "GM": 6232,
+        "1G": 6475,
+        "2AG": 11403,
+        "2BG": 6263,
+        "3AG": 6474,
+        "3BG": 9239,
+        "SCG": 14109,
+        "STG": 25818,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B400",
+      "name": "THE CHANAKYA UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 43,
+      "cutoffs": {
+        "GM": 6283,
+        "1G": 10935,
+        "2AG": 11897,
+        "2BG": null,
+        "3AG": 7092,
+        "3BG": 10929,
+        "SCG": 20348,
+        "STG": 28341,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B099",
+      "name": "BGS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 44,
+      "cutoffs": {
+        "GM": 6356,
+        "1G": 12836,
+        "2AG": 14823,
+        "2BG": null,
+        "3AG": 8568,
+        "3BG": 16601,
+        "SCG": 24354,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B208",
+      "name": "KLS INSTITUTE OF MANAGEMENT, EDUCATION & RESEARCH",
+      "city": "Bengaluru",
+      "rank": 45,
+      "cutoffs": {
+        "GM": 6417,
+        "1G": 7055,
+        "2AG": 28071,
+        "2BG": 17734,
+        "3AG": 28419,
+        "3BG": 7149,
+        "SCG": 29455,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B386",
+      "name": "ACHARYA INSTITUTE OF GRADUATE STUDIES",
+      "city": "Bengaluru",
+      "rank": 46,
+      "cutoffs": {
+        "GM": 6429,
+        "1G": 21887,
+        "2AG": 9744,
+        "2BG": 19633,
+        "3AG": 7077,
+        "3BG": 9884,
+        "SCG": 30187,
+        "STG": 29990,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B143",
+      "name": "CAMBRIDGE INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 47,
+      "cutoffs": {
+        "GM": 6669,
+        "1G": 8544,
+        "2AG": 9773,
+        "2BG": 8767,
+        "3AG": 7562,
+        "3BG": 7133,
+        "SCG": 16555,
+        "STG": 18312,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B288",
+      "name": "SJB INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 48,
+      "cutoffs": {
+        "GM": 6701,
+        "1G": 9240,
+        "2AG": 15132,
+        "2BG": 25225,
+        "3AG": 8172,
+        "3BG": 10434,
+        "SCG": 23508,
+        "STG": null,
+        "NKN": 8034
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B088",
+      "name": "BGS B-SCHOOL",
+      "city": "Bengaluru",
+      "rank": 49,
+      "cutoffs": {
+        "GM": 6790,
+        "1G": 16882,
+        "2AG": 9945,
+        "2BG": 11928,
+        "3AG": 6796,
+        "3BG": 7391,
+        "SCG": 25904,
+        "STG": 12680,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B277",
+      "name": "SDM COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 50,
+      "cutoffs": {
+        "GM": 6899,
+        "1G": 10134,
+        "2AG": 10264,
+        "2BG": 19982,
+        "3AG": 12825,
+        "3BG": 7127,
+        "SCG": 30043,
+        "STG": 21395,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B378",
+      "name": "IFIM COLLEGE",
+      "city": "Bengaluru",
+      "rank": 51,
+      "cutoffs": {
+        "GM": 6925,
+        "1G": 10211,
+        "2AG": 13399,
+        "2BG": 23517,
+        "3AG": 8659,
+        "3BG": 10293,
+        "SCG": 29270,
+        "STG": 19897,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B382",
+      "name": "GITAM UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 52,
+      "cutoffs": {
+        "GM": 7348,
+        "1G": 8449,
+        "2AG": 11688,
+        "2BG": 11603,
+        "3AG": 8650,
+        "3BG": 10989,
+        "SCG": null,
+        "STG": 11564,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B067",
+      "name": "A. J. INSTITUTE OF ENGINEERING AND TECHNOLOGY MANGALURU",
+      "city": "Bengaluru",
+      "rank": 53,
+      "cutoffs": {
+        "GM": 7545,
+        "1G": 16308,
+        "2AG": 14803,
+        "2BG": null,
+        "3AG": 15085,
+        "3BG": 21553,
+        "SCG": 29757,
+        "STG": 11324,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B245",
+      "name": "PRESIDENCY COLLEGE",
+      "city": "Bengaluru",
+      "rank": 54,
+      "cutoffs": {
+        "GM": 7669,
+        "1G": 13330,
+        "2AG": 13036,
+        "2BG": 10133,
+        "3AG": 9647,
+        "3BG": 11517,
+        "SCG": 26099,
+        "STG": 28180,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B310",
+      "name": "B N BAHADUR INSTITUTE OF MANAGEMENT (UNIVERSITY OF MYSORE)",
+      "city": "Mysuru",
+      "rank": 55,
+      "cutoffs": {
+        "GM": 7728,
+        "1G": 20513,
+        "2AG": 17812,
+        "2BG": 23229,
+        "3AG": 8820,
+        "3BG": 10284,
+        "SCG": 13799,
+        "STG": 14498,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B174",
+      "name": "GLOBAL ACADEMY OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 56,
+      "cutoffs": {
+        "GM": 7844,
+        "1G": 11372,
+        "2AG": 14731,
+        "2BG": 28910,
+        "3AG": 8409,
+        "3BG": 12084,
+        "SCG": 28590,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B385",
+      "name": "ALLIANCE UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 57,
+      "cutoffs": {
+        "GM": 7882,
+        "1G": 22257,
+        "2AG": 19849,
+        "2BG": 25640,
+        "3AG": 9710,
+        "3BG": 11955,
+        "SCG": 29536,
+        "STG": 23787,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B246",
+      "name": "PROUDHADEVARAYA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 58,
+      "cutoffs": {
+        "GM": 7965,
+        "1G": 22285,
+        "2AG": 26359,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": 10753,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B128",
+      "name": "BALLARI INSTITUTE OF TECHNOLOGY & MANAGEMENT",
+      "city": "Ballari",
+      "rank": 59,
+      "cutoffs": {
+        "GM": 8013,
+        "1G": 11318,
+        "2AG": 24573,
+        "2BG": 13985,
+        "3AG": 8570,
+        "3BG": 15522,
+        "SCG": 27355,
+        "STG": 19690,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B395",
+      "name": "CMR UNIVERSITY (Campus 3)",
+      "city": "Bengaluru",
+      "rank": 60,
+      "cutoffs": {
+        "GM": 8161,
+        "1G": 12703,
+        "2AG": 12335,
+        "2BG": 16506,
+        "3AG": 10574,
+        "3BG": 11317,
+        "SCG": 26164,
+        "STG": null,
+        "NKN": 9787
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B322",
+      "name": "VIVEKANANDA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 61,
+      "cutoffs": {
+        "GM": 8249,
+        "1G": null,
+        "2AG": 16296,
+        "2BG": null,
+        "3AG": 8285,
+        "3BG": 18283,
+        "SCG": 13038,
+        "STG": 27945,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B318",
+      "name": "VISVESVARAYA TECHNOLOGICAL UNIVERSITY (MBA + Logistics)",
+      "city": "Bengaluru",
+      "rank": 62,
+      "cutoffs": {
+        "GM": 8340,
+        "1G": 23348,
+        "2AG": 22271,
+        "2BG": 18501,
+        "3AG": 20565,
+        "3BG": 15491,
+        "SCG": 23894,
+        "STG": 28649,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B081",
+      "name": "PARIVARTHANA BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 63,
+      "cutoffs": {
+        "GM": 8431,
+        "1G": 20012,
+        "2AG": 17368,
+        "2BG": null,
+        "3AG": 9064,
+        "3BG": 10156,
+        "SCG": 27480,
+        "STG": 20016,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B349",
+      "name": "PRESIDENCY UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 64,
+      "cutoffs": {
+        "GM": 8590,
+        "1G": 13759,
+        "2AG": 15916,
+        "2BG": 20271,
+        "3AG": 10186,
+        "3BG": 12226,
+        "SCG": 30762,
+        "STG": 29438,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B061",
+      "name": "CHRIST COLLEGE OF SCIENCE AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 65,
+      "cutoffs": {
+        "GM": 8683,
+        "1G": 13808,
+        "2AG": 19807,
+        "2BG": 19808,
+        "3AG": 9036,
+        "3BG": 11825,
+        "SCG": 31001,
+        "STG": 9993,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B180",
+      "name": "GSSS INSTITUTE OF ENGINEERING & TECHNOLOGY FOR WOMEN",
+      "city": "Bengaluru",
+      "rank": 66,
+      "cutoffs": {
+        "GM": 8984,
+        "1G": 17191,
+        "2AG": 20193,
+        "2BG": null,
+        "3AG": 13361,
+        "3BG": 13463,
+        "SCG": 28653,
+        "STG": 27924,
+        "NKN": 11708
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B115",
+      "name": "ALVA'S INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 67,
+      "cutoffs": {
+        "GM": 9107,
+        "1G": 22616,
+        "2AG": 19521,
+        "2BG": 13199,
+        "3AG": 13875,
+        "3BG": 11332,
+        "SCG": 29296,
+        "STG": 28902,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B314",
+      "name": "VIDYA VIKAS INSTITUTE OF ENGINEERING & TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 68,
+      "cutoffs": {
+        "GM": 9163,
+        "1G": 19096,
+        "2AG": 15136,
+        "2BG": null,
+        "3AG": 9273,
+        "3BG": 9169,
+        "SCG": 24597,
+        "STG": 28946,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B144",
+      "name": "CANARA BANK SCHOOL OF MANAGEMENT STUDIES, JNANA BHARATHI CAMPUS, BU",
+      "city": "Bengaluru",
+      "rank": 69,
+      "cutoffs": {
+        "GM": 9333,
+        "1G": 15409,
+        "2AG": 17951,
+        "2BG": 23356,
+        "3AG": 11071,
+        "3BG": 16804,
+        "SCG": 18221,
+        "STG": 16244,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B224",
+      "name": "MANGALORE INSTITUTE OF TECHNOLOGY & ENGINEERING",
+      "city": "Mangaluru",
+      "rank": 70,
+      "cutoffs": {
+        "GM": 9340,
+        "1G": 16067,
+        "2AG": 15388,
+        "2BG": null,
+        "3AG": 20199,
+        "3BG": 15152,
+        "SCG": 23241,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B356",
+      "name": "ISBR COLLEGE (Gen Mgmt)",
+      "city": "Bengaluru",
+      "rank": 71,
+      "cutoffs": {
+        "GM": 9507,
+        "1G": 15148,
+        "2AG": 21786,
+        "2BG": 22157,
+        "3AG": 10692,
+        "3BG": 15772,
+        "SCG": 26074,
+        "STG": 11217,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B077",
+      "name": "SESHADRIPURAM COLLEGE",
+      "city": "Bengaluru",
+      "rank": 72,
+      "cutoffs": {
+        "GM": 9515,
+        "1G": 30732,
+        "2AG": 15890,
+        "2BG": 19930,
+        "3AG": 13473,
+        "3BG": 13527,
+        "SCG": 29034,
+        "STG": 13849,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B103",
+      "name": "AIMS IBS BUSINESS SCHOOL (ACLIV INSTITUTE OF MANAGEMENT STUDIES)",
+      "city": "Bengaluru",
+      "rank": 73,
+      "cutoffs": {
+        "GM": 9535,
+        "1G": 21170,
+        "2AG": 17414,
+        "2BG": 19845,
+        "3AG": 10974,
+        "3BG": 13994,
+        "SCG": 28051,
+        "STG": 30401,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B392",
+      "name": "ST. CLARET COLLEGE",
+      "city": "Bengaluru",
+      "rank": 74,
+      "cutoffs": {
+        "GM": 9550,
+        "1G": 15235,
+        "2AG": 21122,
+        "2BG": 24777,
+        "3AG": 13428,
+        "3BG": 13293,
+        "SCG": 30237,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B227",
+      "name": "MVJ COLLEGE OF ENGINEERING - MBA",
+      "city": "Bengaluru",
+      "rank": 75,
+      "cutoffs": {
+        "GM": 9660,
+        "1G": 12283,
+        "2AG": 15334,
+        "2BG": null,
+        "3AG": 9676,
+        "3BG": 11754,
+        "SCG": 23926,
+        "STG": 23950,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B070",
+      "name": "BRIGHT BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 76,
+      "cutoffs": {
+        "GM": 10046,
+        "1G": 27671,
+        "2AG": 19173,
+        "2BG": 18503,
+        "3AG": 30714,
+        "3BG": 12122,
+        "SCG": 24550,
+        "STG": 26168,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B258",
+      "name": "REGIONAL COLLEGE OF MANAGEMENT (Gen Mgmt)",
+      "city": "Bengaluru",
+      "rank": 77,
+      "cutoffs": {
+        "GM": 10087,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B159",
+      "name": "DEPARTMENT OF MANAGEMENT STUDIES, BELLARY CENTER",
+      "city": "Ballari",
+      "rank": 78,
+      "cutoffs": {
+        "GM": 10208,
+        "1G": 20191,
+        "2AG": 21721,
+        "2BG": null,
+        "3AG": 10271,
+        "3BG": 14191,
+        "SCG": 23363,
+        "STG": 21616,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B286",
+      "name": "SIR M. VISVESVARAYA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 79,
+      "cutoffs": {
+        "GM": 10549,
+        "1G": 19830,
+        "2AG": 18983,
+        "2BG": null,
+        "3AG": 11539,
+        "3BG": 14526,
+        "SCG": 29871,
+        "STG": 28900,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B276",
+      "name": "SDM COLLEGE OF BUSINESS MANAGEMENT POST GRADUATE CENTRE",
+      "city": "Bengaluru",
+      "rank": 80,
+      "cutoffs": {
+        "GM": 10551,
+        "1G": 26125,
+        "2AG": 27589,
+        "2BG": null,
+        "3AG": 12358,
+        "3BG": 16973,
+        "SCG": 17689,
+        "STG": 24333,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B073",
+      "name": "ST PHILOMENA'S COLLEGE",
+      "city": "Bengaluru",
+      "rank": 81,
+      "cutoffs": {
+        "GM": 10807,
+        "1G": 30970,
+        "2AG": 18527,
+        "2BG": 11952,
+        "3AG": 11488,
+        "3BG": 13546,
+        "SCG": 28220,
+        "STG": 26194,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B190",
+      "name": "JAIN COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 82,
+      "cutoffs": {
+        "GM": 10983,
+        "1G": null,
+        "2AG": 29482,
+        "2BG": 27116,
+        "3AG": 26071,
+        "3BG": 12592,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B175",
+      "name": "GLOBAL BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 83,
+      "cutoffs": {
+        "GM": 11149,
+        "1G": 21125,
+        "2AG": 30501,
+        "2BG": null,
+        "3AG": 14664,
+        "3BG": 15191,
+        "SCG": 11576,
+        "STG": 20289,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B179",
+      "name": "GOVERNMENT R C COLLEGE OF COMMERCE & MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 84,
+      "cutoffs": {
+        "GM": 11312,
+        "1G": 21193,
+        "2AG": 20154,
+        "2BG": 18747,
+        "3AG": 11523,
+        "3BG": 16447,
+        "SCG": 23325,
+        "STG": 22567,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B090",
+      "name": "BANGALORE INSTITUTE OF MANAGEMENT SCIENCE AND RESEARCH",
+      "city": "Bengaluru",
+      "rank": 85,
+      "cutoffs": {
+        "GM": 11314,
+        "1G": 27541,
+        "2AG": 24511,
+        "2BG": null,
+        "3AG": 11530,
+        "3BG": 16479,
+        "SCG": 24394,
+        "STG": 21387,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B223",
+      "name": "GLOBAL INSTITUTE OF MANAGEMENT SCIENCE",
+      "city": "Bengaluru",
+      "rank": 86,
+      "cutoffs": {
+        "GM": 11419,
+        "1G": 23344,
+        "2AG": 22773,
+        "2BG": null,
+        "3AG": 12471,
+        "3BG": 12675,
+        "SCG": 28083,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B153",
+      "name": "COMMUNITY INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 87,
+      "cutoffs": {
+        "GM": 11510,
+        "1G": 28528,
+        "2AG": 25117,
+        "2BG": null,
+        "3AG": 16061,
+        "3BG": 17582,
+        "SCG": 28931,
+        "STG": 27297,
+        "NKN": 13639
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B194",
+      "name": "JAWAHARLAL NEHRU NEW COLLEGE OF ENGINEERING - MBA",
+      "city": "Bengaluru",
+      "rank": 88,
+      "cutoffs": {
+        "GM": 11601,
+        "1G": 17609,
+        "2AG": 19963,
+        "2BG": 16575,
+        "3AG": 15099,
+        "3BG": 13363,
+        "SCG": 28008,
+        "STG": 29955,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B313",
+      "name": "ALLUM KARIBASAPPA INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 89,
+      "cutoffs": {
+        "GM": 11673,
+        "1G": null,
+        "2AG": 17765,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 20829,
+        "SCG": 26513,
+        "STG": 20114,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B279",
+      "name": "SESHADRIPURAM FIRST GRADE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 90,
+      "cutoffs": {
+        "GM": 11773,
+        "1G": 18873,
+        "2AG": 26838,
+        "2BG": 22137,
+        "3AG": 13027,
+        "3BG": 15368,
+        "SCG": 30042,
+        "STG": 27019,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B329",
+      "name": "NAGARJUNA DEGREE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 91,
+      "cutoffs": {
+        "GM": 12119,
+        "1G": 31218,
+        "2AG": 30462,
+        "2BG": 22326,
+        "3AG": 17099,
+        "3BG": 24373,
+        "SCG": 28314,
+        "STG": 16299,
+        "NKN": 15988
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B364",
+      "name": "CANARA BANK SCHOOL OF MANAGEMENT STUDIES, CENTRAL COLLEGE CAMPUS, BCU",
+      "city": "Bengaluru",
+      "rank": 92,
+      "cutoffs": {
+        "GM": 12151,
+        "1G": 29970,
+        "2AG": 22872,
+        "2BG": 30813,
+        "3AG": 16930,
+        "3BG": 22283,
+        "SCG": 22738,
+        "STG": 25728,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B087",
+      "name": "DEPARTMENT OF BUSINESS ADMINISTRATION",
+      "city": "Bengaluru",
+      "rank": 93,
+      "cutoffs": {
+        "GM": 12254,
+        "1G": 27668,
+        "2AG": 22453,
+        "2BG": 30639,
+        "3AG": 15233,
+        "3BG": 20767,
+        "SCG": 28817,
+        "STG": 25469,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B132",
+      "name": "BAPUJI INSTITUTE OF ENGINEERING & TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 94,
+      "cutoffs": {
+        "GM": 12304,
+        "1G": 26177,
+        "2AG": 22368,
+        "2BG": 20762,
+        "3AG": 20909,
+        "3BG": 13498,
+        "SCG": 28570,
+        "STG": 24818,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B170",
+      "name": "MAHARAJA INSTITUTE OF TECHNOLOGY THANDAVAPURA",
+      "city": "Bengaluru",
+      "rank": 95,
+      "cutoffs": {
+        "GM": 12390,
+        "1G": 30180,
+        "2AG": 26013,
+        "2BG": null,
+        "3AG": 12576,
+        "3BG": 13215,
+        "SCG": 28600,
+        "STG": 30760,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B181",
+      "name": "GURU NANAK DEV ENGINEERING COLLEGE",
+      "city": "Bengaluru",
+      "rank": 96,
+      "cutoffs": {
+        "GM": 12559,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 23937,
+        "SCG": 15542,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B116",
+      "name": "AMC ENGINEERING COLLEGE",
+      "city": "Bengaluru",
+      "rank": 97,
+      "cutoffs": {
+        "GM": 12642,
+        "1G": 27396,
+        "2AG": 25357,
+        "2BG": 27059,
+        "3AG": 17836,
+        "3BG": 15507,
+        "SCG": 30397,
+        "STG": 24009,
+        "NKN": 14602
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B160",
+      "name": "DEPARTMENT OF MANAGEMENT, GULBARGA UNIVERSITY",
+      "city": "Kalaburagi",
+      "rank": 98,
+      "cutoffs": {
+        "GM": 12646,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 19126,
+        "SCG": 30012,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B360",
+      "name": "NSB ACADEMY",
+      "city": "Bengaluru",
+      "rank": 99,
+      "cutoffs": {
+        "GM": 12868,
+        "1G": null,
+        "2AG": 26470,
+        "2BG": 18939,
+        "3AG": 18602,
+        "3BG": 16685,
+        "SCG": 18231,
+        "STG": 20721,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B035",
+      "name": "JAIN COLLEGE OF ENGINEERING AND RESEARCH",
+      "city": "Bengaluru",
+      "rank": 100,
+      "cutoffs": {
+        "GM": 13061,
+        "1G": null,
+        "2AG": 22950,
+        "2BG": 18181,
+        "3AG": 16909,
+        "3BG": 13095,
+        "SCG": 23865,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B317",
+      "name": "VISVESVARAYA TECHNOLOGICAL UNIVERSITY (MBA + Digital Marketing)",
+      "city": "Bengaluru",
+      "rank": 101,
+      "cutoffs": {
+        "GM": 13133,
+        "1G": 26750,
+        "2AG": 24940,
+        "2BG": 25542,
+        "3AG": 14608,
+        "3BG": 14981,
+        "SCG": 23313,
+        "STG": 19683,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B328",
+      "name": "DR. AMBEDKAR INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 102,
+      "cutoffs": {
+        "GM": 13174,
+        "1G": 30876,
+        "2AG": 24766,
+        "2BG": null,
+        "3AG": 16165,
+        "3BG": 17781,
+        "SCG": 31098,
+        "STG": 24151,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B417",
+      "name": "VAISIRI INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 103,
+      "cutoffs": {
+        "GM": 13176,
+        "1G": 24361,
+        "2AG": 25159,
+        "2BG": 27897,
+        "3AG": 17144,
+        "3BG": 21984,
+        "SCG": 29037,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B162",
+      "name": "DON BOSCO INSTITUTE OF MANAGEMENT STUDIES & COMPUTER APPLICATIONS",
+      "city": "Bengaluru",
+      "rank": 104,
+      "cutoffs": {
+        "GM": 13566,
+        "1G": 22486,
+        "2AG": 24893,
+        "2BG": 20638,
+        "3AG": 14485,
+        "3BG": 14862,
+        "SCG": 28502,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B163",
+      "name": "DON BOSCO INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 105,
+      "cutoffs": {
+        "GM": 13632,
+        "1G": 25138,
+        "2AG": 27747,
+        "2BG": null,
+        "3AG": 15735,
+        "3BG": 18408,
+        "SCG": 29406,
+        "STG": 27633,
+        "NKN": 15090
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B369",
+      "name": "SHARANBASVA UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 106,
+      "cutoffs": {
+        "GM": 13945,
+        "1G": null,
+        "2AG": 22621,
+        "2BG": 15018,
+        "3AG": 31011,
+        "3BG": 19350,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B321",
+      "name": "CONSTITUENT COLLEGE OF VTU, U B D T COLLEGE OF ENGINEERING (Campus 2)",
+      "city": "Bengaluru",
+      "rank": 107,
+      "cutoffs": {
+        "GM": 14007,
+        "1G": 21798,
+        "2AG": 27056,
+        "2BG": 25416,
+        "3AG": 27272,
+        "3BG": 15679,
+        "SCG": 28923,
+        "STG": 24830,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B083",
+      "name": "MBA DEPARTMENT, TUMKUR UNIVERSITY",
+      "city": "Tumakuru",
+      "rank": 108,
+      "cutoffs": {
+        "GM": 14075,
+        "1G": 21819,
+        "2AG": 28199,
+        "2BG": null,
+        "3AG": 22529,
+        "3BG": 22113,
+        "SCG": 25679,
+        "STG": 24651,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B122",
+      "name": "ATRIA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 109,
+      "cutoffs": {
+        "GM": 14216,
+        "1G": 28767,
+        "2AG": 23457,
+        "2BG": 27175,
+        "3AG": 16293,
+        "3BG": 17438,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B133",
+      "name": "BAPUJI ACADEMY OF MANAGEMENT & RESEARCH",
+      "city": "Bengaluru",
+      "rank": 110,
+      "cutoffs": {
+        "GM": 14558,
+        "1G": 25248,
+        "2AG": 22653,
+        "2BG": 25988,
+        "3AG": 22877,
+        "3BG": 16367,
+        "SCG": 22102,
+        "STG": 25650,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B038",
+      "name": "GOPALAN COLLEGE OF COMMERCE",
+      "city": "Bengaluru",
+      "rank": 111,
+      "cutoffs": {
+        "GM": 14737,
+        "1G": 18530,
+        "2AG": 26056,
+        "2BG": null,
+        "3AG": 18234,
+        "3BG": 15533,
+        "SCG": 30523,
+        "STG": 28943,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B367",
+      "name": "YUVARAJA'S COLLEGE (AUTONOMOUS), UNIVERSITY OF MYSORE",
+      "city": "Mysuru",
+      "rank": 112,
+      "cutoffs": {
+        "GM": 15127,
+        "1G": 28956,
+        "2AG": 25173,
+        "2BG": 25495,
+        "3AG": 16733,
+        "3BG": 16457,
+        "SCG": 24122,
+        "STG": 20059,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B027",
+      "name": "SAPTHAGIRI NPS UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 113,
+      "cutoffs": {
+        "GM": 15154,
+        "1G": 24180,
+        "2AG": 29663,
+        "2BG": 30352,
+        "3AG": 16419,
+        "3BG": 23752,
+        "SCG": 26941,
+        "STG": 29510,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B109",
+      "name": "ADICHUNCHANAGIRI INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 114,
+      "cutoffs": {
+        "GM": 15167,
+        "1G": null,
+        "2AG": 21942,
+        "2BG": null,
+        "3AG": 16468,
+        "3BG": 15802,
+        "SCG": 28459,
+        "STG": 30414,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B302",
+      "name": "SURANA COLLEGE (AUTONOMOUS)",
+      "city": "Bengaluru",
+      "rank": 115,
+      "cutoffs": {
+        "GM": 15228,
+        "1G": 23164,
+        "2AG": 30833,
+        "2BG": 27358,
+        "3AG": 16632,
+        "3BG": 24439,
+        "SCG": 30541,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B306",
+      "name": "THE OXFORD COLLEGE OF BUSINESS MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 116,
+      "cutoffs": {
+        "GM": 15362,
+        "1G": 30663,
+        "2AG": 29437,
+        "2BG": 25257,
+        "3AG": 17257,
+        "3BG": 21919,
+        "SCG": 30390,
+        "STG": 27087,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B316",
+      "name": "VISVESVARAYA TECHNOLOGICAL UNIVERSITY (Gen Mgmt)",
+      "city": "Bengaluru",
+      "rank": 117,
+      "cutoffs": {
+        "GM": 15465,
+        "1G": 30262,
+        "2AG": 31092,
+        "2BG": 29513,
+        "3AG": 20837,
+        "3BG": 19684,
+        "SCG": 30403,
+        "STG": 28056,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B184",
+      "name": "H.K.E SOCIETY'S SIR M VISVESVARAYA COLLEGE OF ENGINEERING, RAICHUR",
+      "city": "Raichur",
+      "rank": 118,
+      "cutoffs": {
+        "GM": 15466,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B074",
+      "name": "SRI DEVARAJ URS INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 119,
+      "cutoffs": {
+        "GM": 15485,
+        "1G": null,
+        "2AG": 27323,
+        "2BG": null,
+        "3AG": 22119,
+        "3BG": 26776,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B097",
+      "name": "AKASH INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 120,
+      "cutoffs": {
+        "GM": 15755,
+        "1G": null,
+        "2AG": 20111,
+        "2BG": 23430,
+        "3AG": 16861,
+        "3BG": null,
+        "SCG": 28225,
+        "STG": 25124,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B220",
+      "name": "MAHARANI'S WOMENS COMMERCE AND MANAGEMENT COLLEGE",
+      "city": "Bengaluru",
+      "rank": 121,
+      "cutoffs": {
+        "GM": 15762,
+        "1G": 28782,
+        "2AG": 25397,
+        "2BG": 27900,
+        "3AG": 17151,
+        "3BG": 19976,
+        "SCG": 19944,
+        "STG": 20395,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B361",
+      "name": "ADARSH INSTITUTE OF MANAGEMENT & INFORMATION TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 122,
+      "cutoffs": {
+        "GM": 15920,
+        "1G": 23980,
+        "2AG": 30242,
+        "2BG": null,
+        "3AG": 18299,
+        "3BG": 23179,
+        "SCG": 30706,
+        "STG": 26968,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B203",
+      "name": "KARNATAK UNIVERSITY (KOUSALI INSTITUTE OF MANAGEMENT STUDIES)",
+      "city": "Bengaluru",
+      "rank": 123,
+      "cutoffs": {
+        "GM": 15937,
+        "1G": 30119,
+        "2AG": 30871,
+        "2BG": 30926,
+        "3AG": 25733,
+        "3BG": 19080,
+        "SCG": 30175,
+        "STG": 25426,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B399",
+      "name": "ST. AGNES COLLEGE AUTONOMOUS",
+      "city": "Bengaluru",
+      "rank": 124,
+      "cutoffs": {
+        "GM": 16079,
+        "1G": null,
+        "2AG": 30620,
+        "2BG": 22028,
+        "3AG": 18377,
+        "3BG": 18071,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B168",
+      "name": "EAST POINT COLLEGE OF HIGHER EDUCATION",
+      "city": "Bengaluru",
+      "rank": 125,
+      "cutoffs": {
+        "GM": 16292,
+        "1G": 25283,
+        "2AG": 30252,
+        "2BG": 29458,
+        "3AG": 17211,
+        "3BG": 30095,
+        "SCG": 31047,
+        "STG": 17571,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B226",
+      "name": "MOODLAKATTE INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 126,
+      "cutoffs": {
+        "GM": 16425,
+        "1G": 18824,
+        "2AG": 24201,
+        "2BG": 23618,
+        "3AG": 28252,
+        "3BG": 23906,
+        "SCG": 27801,
+        "STG": 19935,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B211",
+      "name": "KRUPANIDHI COLLEGE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 127,
+      "cutoffs": {
+        "GM": 16512,
+        "1G": 22832,
+        "2AG": 27542,
+        "2BG": 20683,
+        "3AG": 24464,
+        "3BG": 21925,
+        "SCG": 28961,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B294",
+      "name": "SRI SIDDHARTHA INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 128,
+      "cutoffs": {
+        "GM": 16538,
+        "1G": 23923,
+        "2AG": 30814,
+        "2BG": 27508,
+        "3AG": 19613,
+        "3BG": 16921,
+        "SCG": 29486,
+        "STG": 25072,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B253",
+      "name": "RAJARAJESWARI COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 129,
+      "cutoffs": {
+        "GM": 16542,
+        "1G": 20764,
+        "2AG": 27841,
+        "2BG": null,
+        "3AG": 16771,
+        "3BG": 22995,
+        "SCG": 24865,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B072",
+      "name": "KISHKINDA UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 130,
+      "cutoffs": {
+        "GM": 16603,
+        "1G": null,
+        "2AG": 28253,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 17271,
+        "SCG": 29997,
+        "STG": 20469,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B243",
+      "name": "POORNAPRAJNA INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 131,
+      "cutoffs": {
+        "GM": 16923,
+        "1G": null,
+        "2AG": 27394,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 28551,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B053",
+      "name": "CANARA BANK SCHOOL OF MANAGEMENT STUDIES, JNANA BHARATHI CAMPUS, BU (Gen Mgmt Evening)",
+      "city": "Bengaluru",
+      "rank": 132,
+      "cutoffs": {
+        "GM": 17017,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B278",
+      "name": "SECAB INSTITUTE OF ENGINEERING & TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 133,
+      "cutoffs": {
+        "GM": 17031,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B307",
+      "name": "THE OXFORD COLLEGE OF ENGINEERING - MBA",
+      "city": "Bengaluru",
+      "rank": 134,
+      "cutoffs": {
+        "GM": 17318,
+        "1G": null,
+        "2AG": 29265,
+        "2BG": null,
+        "3AG": 18237,
+        "3BG": 18862,
+        "SCG": 28707,
+        "STG": 18645,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B091",
+      "name": "VTU POST GRADUATE CENTER AND SKILL DEVELOPMENT CENTER TALAKAL",
+      "city": "Bengaluru",
+      "rank": 135,
+      "cutoffs": {
+        "GM": 17337,
+        "1G": null,
+        "2AG": null,
+        "2BG": 29021,
+        "3AG": null,
+        "3BG": 28280,
+        "SCG": 30069,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B257",
+      "name": "RAO BAHADUR Y MAHABALESWARAPPA ENGINEERING COLLEGE",
+      "city": "Bengaluru",
+      "rank": 136,
+      "cutoffs": {
+        "GM": 17360,
+        "1G": null,
+        "2AG": 19786,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": 30471,
+        "STG": 23202,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B410",
+      "name": "KLE LINGARAJ COLLEGE BELGAUM",
+      "city": "Belagavi",
+      "rank": 137,
+      "cutoffs": {
+        "GM": 17380,
+        "1G": null,
+        "2AG": 28169,
+        "2BG": 18846,
+        "3AG": null,
+        "3BG": 21745,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B192",
+      "name": "JAIN INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 138,
+      "cutoffs": {
+        "GM": 17473,
+        "1G": 20617,
+        "2AG": 30058,
+        "2BG": 25991,
+        "3AG": 21152,
+        "3BG": 20785,
+        "SCG": 23715,
+        "STG": 25421,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B127",
+      "name": "B.L.D.E.A'S V.P DR P.G.HALAKATTI COLLEGE OF ENGG. & TECH",
+      "city": "Bengaluru",
+      "rank": 139,
+      "cutoffs": {
+        "GM": 17785,
+        "1G": null,
+        "2AG": 18838,
+        "2BG": 23244,
+        "3AG": null,
+        "3BG": 23316,
+        "SCG": 20142,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B034",
+      "name": "JYOTHY INSTITUTE OF COMMERCE AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 140,
+      "cutoffs": {
+        "GM": 17823,
+        "1G": null,
+        "2AG": 24504,
+        "2BG": null,
+        "3AG": 23614,
+        "3BG": 21087,
+        "SCG": 25725,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B238",
+      "name": "P.E.S. COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 141,
+      "cutoffs": {
+        "GM": 17992,
+        "1G": 28886,
+        "2AG": 30822,
+        "2BG": null,
+        "3AG": 23687,
+        "3BG": 24487,
+        "SCG": 29357,
+        "STG": null,
+        "NKN": 22793
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B219",
+      "name": "MAHARAJA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 142,
+      "cutoffs": {
+        "GM": 18040,
+        "1G": null,
+        "2AG": 30751,
+        "2BG": null,
+        "3AG": 20749,
+        "3BG": 20594,
+        "SCG": 30977,
+        "STG": 30292,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B265",
+      "name": "S J C INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 143,
+      "cutoffs": {
+        "GM": 18108,
+        "1G": 25600,
+        "2AG": 28844,
+        "2BG": 27232,
+        "3AG": 18186,
+        "3BG": 19904,
+        "SCG": 30576,
+        "STG": 20436,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B331",
+      "name": "INSTITUTE OF BUSINESS MANAGEMENT AND RESEARCH",
+      "city": "Bengaluru",
+      "rank": 144,
+      "cutoffs": {
+        "GM": 18136,
+        "1G": null,
+        "2AG": 27398,
+        "2BG": 31012,
+        "3AG": 24668,
+        "3BG": 21270,
+        "SCG": 29192,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B366",
+      "name": "GOVERNMENT FIRST GRADE COLLEGE (B366)",
+      "city": "Bengaluru",
+      "rank": 145,
+      "cutoffs": {
+        "GM": 18220,
+        "1G": 27662,
+        "2AG": 28009,
+        "2BG": null,
+        "3AG": 18650,
+        "3BG": 27123,
+        "SCG": 27115,
+        "STG": 29719,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B051",
+      "name": "CANARA BANK SCHOOL OF MANAGEMENT STUDIES, CENTRAL COLLEGE CAMPUS, BCU (Evening)",
+      "city": "Bengaluru",
+      "rank": 146,
+      "cutoffs": {
+        "GM": 18279,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B221",
+      "name": "MAHARANI'S CLUSTER UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 147,
+      "cutoffs": {
+        "GM": 18291,
+        "1G": 18588,
+        "2AG": 30117,
+        "2BG": null,
+        "3AG": 21997,
+        "3BG": 22894,
+        "SCG": 29342,
+        "STG": 28437,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B414",
+      "name": "SESHADRIPURAM DEGREE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 148,
+      "cutoffs": {
+        "GM": 18334,
+        "1G": null,
+        "2AG": 30054,
+        "2BG": null,
+        "3AG": 20162,
+        "3BG": 21451,
+        "SCG": 27584,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B125",
+      "name": "B V V SANGHA'S INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 149,
+      "cutoffs": {
+        "GM": 18694,
+        "1G": null,
+        "2AG": 25588,
+        "2BG": 25832,
+        "3AG": 22590,
+        "3BG": 21296,
+        "SCG": 30538,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B118",
+      "name": "ANGADI INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 150,
+      "cutoffs": {
+        "GM": 18739,
+        "1G": null,
+        "2AG": 21681,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 21958,
+        "SCG": 24076,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B193",
+      "name": "DR. D VEERENDRA HEGGADE INSTITUTE OF MANAGEMENT STUDIES & RESEARCH",
+      "city": "Bengaluru",
+      "rank": 151,
+      "cutoffs": {
+        "GM": 18791,
+        "1G": null,
+        "2AG": 27962,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 21850,
+        "SCG": 28626,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B420",
+      "name": "SHARANBASVA UNIVERSITY (Women)",
+      "city": "Bengaluru",
+      "rank": 152,
+      "cutoffs": {
+        "GM": 18930,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B274",
+      "name": "SBRR MAHAJANA FIRST GRADE COLLEGE, PG WING, MYSORE",
+      "city": "Mysuru",
+      "rank": 153,
+      "cutoffs": {
+        "GM": 19003,
+        "1G": 22267,
+        "2AG": 26397,
+        "2BG": null,
+        "3AG": 19600,
+        "3BG": 19921,
+        "SCG": 30608,
+        "STG": 23028,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B372",
+      "name": "ATME COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 154,
+      "cutoffs": {
+        "GM": 19411,
+        "1G": 27356,
+        "2AG": 29705,
+        "2BG": null,
+        "3AG": 19723,
+        "3BG": 19922,
+        "SCG": 30844,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B089",
+      "name": "BANGALORE INTEGRATED MANAGEMENT ACADEMY",
+      "city": "Bengaluru",
+      "rank": 155,
+      "cutoffs": {
+        "GM": 19454,
+        "1G": 30478,
+        "2AG": 30169,
+        "2BG": null,
+        "3AG": 23042,
+        "3BG": 26497,
+        "SCG": 30909,
+        "STG": 27843,
+        "NKN": 22247
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B228",
+      "name": "NAGARJUNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 156,
+      "cutoffs": {
+        "GM": 19608,
+        "1G": 27372,
+        "2AG": 28141,
+        "2BG": 26770,
+        "3AG": 24725,
+        "3BG": 30291,
+        "SCG": 30223,
+        "STG": null,
+        "NKN": 23585
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B222",
+      "name": "MANEL SRINIVAS NAYAK INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 157,
+      "cutoffs": {
+        "GM": 19772,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 27719,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B189",
+      "name": "INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 158,
+      "cutoffs": {
+        "GM": 20122,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B269",
+      "name": "SAI VIDYA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 159,
+      "cutoffs": {
+        "GM": 20530,
+        "1G": 26901,
+        "2AG": 26771,
+        "2BG": null,
+        "3AG": 23055,
+        "3BG": 27555,
+        "SCG": 26158,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B032",
+      "name": "MYSURU ROYAL INSTITUTE OF TECHNOLOGY",
+      "city": "Mysuru",
+      "rank": 160,
+      "cutoffs": {
+        "GM": 20556,
+        "1G": null,
+        "2AG": 31227,
+        "2BG": null,
+        "3AG": 21740,
+        "3BG": 23836,
+        "SCG": 25453,
+        "STG": 24592,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B235",
+      "name": "SAHYADRI COMMERCE AND MANAGEMENT COLLEGE (PG EXTENSION KUVEMPU)",
+      "city": "Bengaluru",
+      "rank": 161,
+      "cutoffs": {
+        "GM": 20558,
+        "1G": 27977,
+        "2AG": 28898,
+        "2BG": null,
+        "3AG": 22893,
+        "3BG": 22980,
+        "SCG": 29481,
+        "STG": 20635,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B212",
+      "name": "KUVEMPU UNIVERSITY, SHANKARGHATTA",
+      "city": "Bengaluru",
+      "rank": 162,
+      "cutoffs": {
+        "GM": 20967,
+        "1G": 26864,
+        "2AG": 30753,
+        "2BG": 21697,
+        "3AG": 22568,
+        "3BG": 22252,
+        "SCG": 31183,
+        "STG": 30749,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B169",
+      "name": "EAST WEST COLLEGE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 163,
+      "cutoffs": {
+        "GM": 21047,
+        "1G": null,
+        "2AG": 26273,
+        "2BG": null,
+        "3AG": 22954,
+        "3BG": 24184,
+        "SCG": 21292,
+        "STG": 29476,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B062",
+      "name": "CAUVERY COLLEGE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 164,
+      "cutoffs": {
+        "GM": 21123,
+        "1G": 31056,
+        "2AG": 31176,
+        "2BG": null,
+        "3AG": 21399,
+        "3BG": 23746,
+        "SCG": 30549,
+        "STG": 29942,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B120",
+      "name": "ANNAPOORNA INSTITUTE OF MANAGEMENT RESEARCH",
+      "city": "Bengaluru",
+      "rank": 165,
+      "cutoffs": {
+        "GM": 21162,
+        "1G": null,
+        "2AG": 30701,
+        "2BG": 21673,
+        "3AG": 30191,
+        "3BG": 22383,
+        "SCG": 28170,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B343",
+      "name": "ADICHUNCHANAGIRI UNIVERSITY (FORMERLY B.G.S INSTITUTE OF TECHNOLOGY)",
+      "city": "Bengaluru",
+      "rank": 166,
+      "cutoffs": {
+        "GM": 21364,
+        "1G": null,
+        "2AG": 30335,
+        "2BG": 24437,
+        "3AG": 21482,
+        "3BG": 25497,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B397",
+      "name": "INTERNATIONAL INSTITUTE OF BUSINESS STUDIES",
+      "city": "Bengaluru",
+      "rank": 167,
+      "cutoffs": {
+        "GM": 21434,
+        "1G": null,
+        "2AG": 22754,
+        "2BG": null,
+        "3AG": 26222,
+        "3BG": 28621,
+        "SCG": 24929,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B135",
+      "name": "BHARATESH EDUCATION TRUST GLOBAL BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 168,
+      "cutoffs": {
+        "GM": 21901,
+        "1G": null,
+        "2AG": null,
+        "2BG": 22211,
+        "3AG": null,
+        "3BG": 23453,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B060",
+      "name": "DAKSHA FIRST GRADE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 169,
+      "cutoffs": {
+        "GM": 22180,
+        "1G": 30135,
+        "2AG": 29951,
+        "2BG": null,
+        "3AG": 22880,
+        "3BG": 23225,
+        "SCG": 31174,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B295",
+      "name": "SRI VENKATESHWARA COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 170,
+      "cutoffs": {
+        "GM": 22223,
+        "1G": 26862,
+        "2AG": 30071,
+        "2BG": null,
+        "3AG": 25764,
+        "3BG": null,
+        "SCG": 29860,
+        "STG": 26826,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B376",
+      "name": "INTERNATIONAL ACADEMY OF MANAGEMENT AND ENTREPRENEURSHIP",
+      "city": "Bengaluru",
+      "rank": 171,
+      "cutoffs": {
+        "GM": 22382,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B075",
+      "name": "SHRI MADHWA VADIRAJA INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 172,
+      "cutoffs": {
+        "GM": 22490,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B172",
+      "name": "G.T. INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH",
+      "city": "Bengaluru",
+      "rank": 173,
+      "cutoffs": {
+        "GM": 22559,
+        "1G": null,
+        "2AG": 28980,
+        "2BG": null,
+        "3AG": 28524,
+        "3BG": null,
+        "SCG": 30542,
+        "STG": null,
+        "NKN": 26394
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B256",
+      "name": "RANI CHANNAMMA UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 174,
+      "cutoffs": {
+        "GM": 22740,
+        "1G": null,
+        "2AG": null,
+        "2BG": 29362,
+        "3AG": null,
+        "3BG": 23898,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B146",
+      "name": "CHETAN BUSINESS SCHOOL INSTITUTE OF MANAGEMENT & RESEARCH",
+      "city": "Bengaluru",
+      "rank": 175,
+      "cutoffs": {
+        "GM": 22857,
+        "1G": null,
+        "2AG": 23851,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 24032,
+        "SCG": 28435,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B154",
+      "name": "INSTITUTE OF MANAGEMENT STUDIES, DAVANAGERE UNIVERSITY (Gen Mgmt)",
+      "city": "Bengaluru",
+      "rank": 176,
+      "cutoffs": {
+        "GM": 22870,
+        "1G": 27545,
+        "2AG": 30906,
+        "2BG": 29426,
+        "3AG": 30372,
+        "3BG": 24605,
+        "SCG": 30559,
+        "STG": 30087,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B076",
+      "name": "SESHADRIPURAM COLLEGE TUMAKURU",
+      "city": "Tumakuru",
+      "rank": 177,
+      "cutoffs": {
+        "GM": 22875,
+        "1G": 31081,
+        "2AG": 30115,
+        "2BG": 26847,
+        "3AG": 23469,
+        "3BG": 25116,
+        "SCG": 28665,
+        "STG": 27476,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B140",
+      "name": "BRINDAVAN COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 178,
+      "cutoffs": {
+        "GM": 23262,
+        "1G": 26030,
+        "2AG": 27638,
+        "2BG": null,
+        "3AG": 24687,
+        "3BG": 25190,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B415",
+      "name": "ST. ANTHONY'S COLLEGE",
+      "city": "Bengaluru",
+      "rank": 179,
+      "cutoffs": {
+        "GM": 23275,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B178",
+      "name": "GOVERNMENT FIRST GRADE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 180,
+      "cutoffs": {
+        "GM": 23287,
+        "1G": 26835,
+        "2AG": 28724,
+        "2BG": null,
+        "3AG": 28494,
+        "3BG": 24876,
+        "SCG": 30025,
+        "STG": 28445,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B171",
+      "name": "EAST WEST INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 181,
+      "cutoffs": {
+        "GM": 23383,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 27879,
+        "3BG": 30289,
+        "SCG": null,
+        "STG": null,
+        "NKN": 27032
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B124",
+      "name": "B V V SANGHA'S BASAVESHWAR ENGINEERING COLLEGE",
+      "city": "Bengaluru",
+      "rank": 182,
+      "cutoffs": {
+        "GM": 23431,
+        "1G": 26532,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 25501,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B391",
+      "name": "ST. FRANCIS COLLEGE",
+      "city": "Bengaluru",
+      "rank": 183,
+      "cutoffs": {
+        "GM": 23552,
+        "1G": null,
+        "2AG": 30076,
+        "2BG": 29580,
+        "3AG": 29371,
+        "3BG": 27269,
+        "SCG": 31138,
+        "STG": 26886,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B094",
+      "name": "AVK INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 184,
+      "cutoffs": {
+        "GM": 23727,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B327",
+      "name": "PADMASHREE INSTITUTE OF MANAGEMENT AND SCIENCES",
+      "city": "Bengaluru",
+      "rank": 185,
+      "cutoffs": {
+        "GM": 23978,
+        "1G": null,
+        "2AG": 25084,
+        "2BG": null,
+        "3AG": 25788,
+        "3BG": null,
+        "SCG": 27675,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B188",
+      "name": "INSTITUTE OF EXCELLENCE IN MANAGEMENT SCIENCE",
+      "city": "Bengaluru",
+      "rank": 186,
+      "cutoffs": {
+        "GM": 24279,
+        "1G": 28134,
+        "2AG": null,
+        "2BG": 30691,
+        "3AG": null,
+        "3BG": 24847,
+        "SCG": null,
+        "STG": 25813,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B290",
+      "name": "DR. B R AMBEDKAR POST GRADUATE CENTRE",
+      "city": "Bengaluru",
+      "rank": 187,
+      "cutoffs": {
+        "GM": 24536,
+        "1G": 28854,
+        "2AG": 30954,
+        "2BG": null,
+        "3AG": 28061,
+        "3BG": 26748,
+        "SCG": 30181,
+        "STG": 28735,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B255",
+      "name": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 188,
+      "cutoffs": {
+        "GM": 25217,
+        "1G": null,
+        "2AG": 28998,
+        "2BG": null,
+        "3AG": 26157,
+        "3BG": 29844,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B402",
+      "name": "ACS COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 189,
+      "cutoffs": {
+        "GM": 25335,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 25548,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B063",
+      "name": "C B BHANDARI JAIN COLLEGE",
+      "city": "Bengaluru",
+      "rank": 190,
+      "cutoffs": {
+        "GM": 25410,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B025",
+      "name": "SILICON CITY COLLEGE",
+      "city": "Bengaluru",
+      "rank": 191,
+      "cutoffs": {
+        "GM": 25573,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 26009,
+        "3BG": null,
+        "SCG": 30400,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B018",
+      "name": "CONSTITUENT COLLEGE OF VTU, U B D T COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 192,
+      "cutoffs": {
+        "GM": 25652,
+        "1G": 29743,
+        "2AG": 30624,
+        "2BG": null,
+        "3AG": 30618,
+        "3BG": 27314,
+        "SCG": 29679,
+        "STG": 30284,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B019",
+      "name": "M S CENTRE FOR ADVANCED STUDIES",
+      "city": "Bengaluru",
+      "rank": 193,
+      "cutoffs": {
+        "GM": 25681,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 26789,
+        "3BG": 30297,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B071",
+      "name": "SRI SIDDHARTHA ACADEMY OF HIGHER EDUCATION AGALKOTE",
+      "city": "Bengaluru",
+      "rank": 194,
+      "cutoffs": {
+        "GM": 25717,
+        "1G": 29724,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 28611,
+        "3BG": 27734,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B254",
+      "name": "RAJEEV INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 195,
+      "cutoffs": {
+        "GM": 25739,
+        "1G": 26481,
+        "2AG": 30600,
+        "2BG": 28554,
+        "3AG": 26281,
+        "3BG": 28536,
+        "SCG": 31175,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B403",
+      "name": "AMARA JYOTHI DEGREE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 196,
+      "cutoffs": {
+        "GM": 25771,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B416",
+      "name": "ST. GEORGE COLLEGE OF MANAGEMENT & SCIENCE",
+      "city": "Bengaluru",
+      "rank": 197,
+      "cutoffs": {
+        "GM": 25821,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B139",
+      "name": "BRINDAVAN COLLEGE",
+      "city": "Bengaluru",
+      "rank": 198,
+      "cutoffs": {
+        "GM": 25874,
+        "1G": null,
+        "2AG": 27649,
+        "2BG": null,
+        "3AG": 26412,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B266",
+      "name": "S. E. A. COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 199,
+      "cutoffs": {
+        "GM": 25889,
+        "1G": 29140,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 26533,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B036",
+      "name": "JAIN COLLEGE OF ENGINEERING & TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 200,
+      "cutoffs": {
+        "GM": 26133,
+        "1G": null,
+        "2AG": 29732,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 27136,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B040",
+      "name": "G MADEGOWDA INSTITUTE OF TECHNOLOGY (GMIT)",
+      "city": "Bengaluru",
+      "rank": 201,
+      "cutoffs": {
+        "GM": 26134,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 27899,
+        "3BG": 26717,
+        "SCG": 30088,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B336",
+      "name": "LINGARAJAPPA ENGINEERING COLLEGE",
+      "city": "Bengaluru",
+      "rank": 202,
+      "cutoffs": {
+        "GM": 26146,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 27096,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B341",
+      "name": "SJES COLLEGE OF MANAGEMENT STUDIES (Gen Mgmt)",
+      "city": "Bengaluru",
+      "rank": 203,
+      "cutoffs": {
+        "GM": 26306,
+        "1G": null,
+        "2AG": 26846,
+        "2BG": null,
+        "3AG": 28114,
+        "3BG": 28991,
+        "SCG": null,
+        "STG": 30863,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B031",
+      "name": "OXFORD COLLEGE",
+      "city": "Bengaluru",
+      "rank": 204,
+      "cutoffs": {
+        "GM": 26365,
+        "1G": null,
+        "2AG": 29383,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 27404,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B282",
+      "name": "SHRIDEVI INSTITUTE OF ENGINEERING AND TECHNOLOGY (Business Administration)",
+      "city": "Bengaluru",
+      "rank": 205,
+      "cutoffs": {
+        "GM": 26372,
+        "1G": 29263,
+        "2AG": null,
+        "2BG": 29400,
+        "3AG": 26802,
+        "3BG": 27920,
+        "SCG": 29439,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B326",
+      "name": "HARNAHALLI RAMASWAMY INSTITUTE OF HIGHER EDUCATION",
+      "city": "Bengaluru",
+      "rank": 206,
+      "cutoffs": {
+        "GM": 26488,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 28805,
+        "3BG": 29641,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B405",
+      "name": "AZIM PREMJI UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 207,
+      "cutoffs": {
+        "GM": 26735,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B419",
+      "name": "VSM'S SOMASHEKHAR R. KOTHIWALE INSTITUTE OF TECHNOLOGY NIPANI",
+      "city": "Bengaluru",
+      "rank": 208,
+      "cutoffs": {
+        "GM": 26783,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B375",
+      "name": "SVR COLLEGE OF COMMERCE AND MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 209,
+      "cutoffs": {
+        "GM": 26800,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B250",
+      "name": "R.R. INSTITUTE OF ADVANCED STUDIES",
+      "city": "Bengaluru",
+      "rank": 210,
+      "cutoffs": {
+        "GM": 26839,
+        "1G": null,
+        "2AG": 29873,
+        "2BG": null,
+        "3AG": 26908,
+        "3BG": 29831,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B039",
+      "name": "G R V BUSINESS MANAGEMENT ACADEMY",
+      "city": "Bengaluru",
+      "rank": 211,
+      "cutoffs": {
+        "GM": 26947,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B379",
+      "name": "IMPACT INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 212,
+      "cutoffs": {
+        "GM": 27168,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B198",
+      "name": "K S SCHOOL OF ENGINEERING AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 213,
+      "cutoffs": {
+        "GM": 27383,
+        "1G": null,
+        "2AG": null,
+        "2BG": 28704,
+        "3AG": 28027,
+        "3BG": 31126,
+        "SCG": 29499,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B117",
+      "name": "AMRUTA INSTITUTE OF ENGINEERING AND MANAGEMENT SCIENCES",
+      "city": "Bengaluru",
+      "rank": 214,
+      "cutoffs": {
+        "GM": 27471,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 29194,
+        "3BG": null,
+        "SCG": 28747,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B374",
+      "name": "SINDHI INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 215,
+      "cutoffs": {
+        "GM": 27472,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 29723,
+        "3BG": 30255,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B187",
+      "name": "IA SCHOOL OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 216,
+      "cutoffs": {
+        "GM": 27494,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B380",
+      "name": "SEA COLLEGE OF SCIENCE COMMERCE AND ARTS",
+      "city": "Bengaluru",
+      "rank": 217,
+      "cutoffs": {
+        "GM": 27498,
+        "1G": 29752,
+        "2AG": null,
+        "2BG": 31157,
+        "3AG": 27874,
+        "3BG": null,
+        "SCG": 29578,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B101",
+      "name": "A. J. INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 218,
+      "cutoffs": {
+        "GM": 27516,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B064",
+      "name": "BISHOP COTTON ACADEMY OF PROFESSIONAL MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 219,
+      "cutoffs": {
+        "GM": 27739,
+        "1G": null,
+        "2AG": 28142,
+        "2BG": null,
+        "3AG": 28122,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B213",
+      "name": "KVG COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 220,
+      "cutoffs": {
+        "GM": 27743,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B319",
+      "name": "VISVESVARAYA TECHNOLOGICAL UNIVERSITY (Campus 4)",
+      "city": "Bengaluru",
+      "rank": 221,
+      "cutoffs": {
+        "GM": 27749,
+        "1G": null,
+        "2AG": null,
+        "2BG": 30874,
+        "3AG": 29121,
+        "3BG": null,
+        "SCG": 30666,
+        "STG": 29262,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B201",
+      "name": "KALPATARU INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 222,
+      "cutoffs": {
+        "GM": 27859,
+        "1G": null,
+        "2AG": 29107,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 30411,
+        "SCG": null,
+        "STG": 28846,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B068",
+      "name": "A P S COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 223,
+      "cutoffs": {
+        "GM": 27936,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B237",
+      "name": "P.A COLLEGE OF ENGINEERING (MBA)",
+      "city": "Bengaluru",
+      "rank": 224,
+      "cutoffs": {
+        "GM": 27978,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B195",
+      "name": "JNANAVIKAS INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 225,
+      "cutoffs": {
+        "GM": 27983,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B079",
+      "name": "RATHINAM SCHOOL OF BUSINESS",
+      "city": "Bengaluru",
+      "rank": 226,
+      "cutoffs": {
+        "GM": 28242,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B021",
+      "name": "UNITED INTERNATIONAL BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 227,
+      "cutoffs": {
+        "GM": 28368,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B069",
+      "name": "DR H N NATIONAL COLLEGE OF ENGINEERING",
+      "city": "Bengaluru",
+      "rank": 228,
+      "cutoffs": {
+        "GM": 28380,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B126",
+      "name": "B.L.D.E.A'S A S PATIL COLLEGE OF COMMERCE MBA",
+      "city": "Bengaluru",
+      "rank": 229,
+      "cutoffs": {
+        "GM": 28416,
+        "1G": null,
+        "2AG": 28876,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B394",
+      "name": "VANGUARD BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 230,
+      "cutoffs": {
+        "GM": 28584,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B098",
+      "name": "AKASH GLOBAL COLLEGE OF MANAGEMENT AND SCIENCE",
+      "city": "Bengaluru",
+      "rank": 231,
+      "cutoffs": {
+        "GM": 28681,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B022",
+      "name": "THE RURAL COLLEGE KANAKAPURA",
+      "city": "Bengaluru",
+      "rank": 232,
+      "cutoffs": {
+        "GM": 28750,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B020",
+      "name": "VASAVI JNANA PEETHA FIRST GRADE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 233,
+      "cutoffs": {
+        "GM": 28868,
+        "1G": null,
+        "2AG": 29978,
+        "2BG": null,
+        "3AG": 30055,
+        "3BG": 31079,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B304",
+      "name": "T JOHN INSTITUTE OF MANAGEMENT AND SCIENCE",
+      "city": "Bengaluru",
+      "rank": 234,
+      "cutoffs": {
+        "GM": 29268,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": 18841
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B066",
+      "name": "ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 235,
+      "cutoffs": {
+        "GM": 29454,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 29897,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B371",
+      "name": "SRI KRISHNA INTERNATIONAL BUSINESS SCHOOL (SKIBS)",
+      "city": "Bengaluru",
+      "rank": 236,
+      "cutoffs": {
+        "GM": 29459,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B411",
+      "name": "MLA ACADEMY OF HIGHER LEARNING",
+      "city": "Bengaluru",
+      "rank": 237,
+      "cutoffs": {
+        "GM": 29502,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B271",
+      "name": "SAMBHRAM INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 238,
+      "cutoffs": {
+        "GM": 29520,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B270",
+      "name": "SAMBHRAM ACADEMY OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 239,
+      "cutoffs": {
+        "GM": 29562,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B390",
+      "name": "ST FRANCIS DE SALES COLLEGE",
+      "city": "Bengaluru",
+      "rank": 240,
+      "cutoffs": {
+        "GM": 29573,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B373",
+      "name": "KARNATAKA STATE RURAL DEVELOPMENT & PANCHAYAT RAJ UNIVERSITY (Rural Mgmt)",
+      "city": "Bengaluru",
+      "rank": 241,
+      "cutoffs": {
+        "GM": 29574,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B342",
+      "name": "VEERAPPA NISTY ENGINEERING COLLEGE (Info Mgmt)",
+      "city": "Bengaluru",
+      "rank": 242,
+      "cutoffs": {
+        "GM": 29652,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B093",
+      "name": "BAGALKOTE UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 243,
+      "cutoffs": {
+        "GM": 29675,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B248",
+      "name": "CHRISTIAN INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 244,
+      "cutoffs": {
+        "GM": 29700,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B119",
+      "name": "ANJUMAN INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 245,
+      "cutoffs": {
+        "GM": 29704,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B229",
+      "name": "KLE'S KLE COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 246,
+      "cutoffs": {
+        "GM": 29853,
+        "1G": null,
+        "2AG": 30059,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 30933,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B289",
+      "name": "SMT DANAMMA CHANNABASAVAIAH COLLEGE OF ARTS COMMERCE SCIENCE AND MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 247,
+      "cutoffs": {
+        "GM": 29880,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 30573,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B284",
+      "name": "SHUSHRUTI INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 248,
+      "cutoffs": {
+        "GM": 29887,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B333",
+      "name": "ONE SCHOOL OF BUSINESS",
+      "city": "Bengaluru",
+      "rank": 249,
+      "cutoffs": {
+        "GM": 29945,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B272",
+      "name": "SAMPOORNA GROUP OF INSTITUTIONS",
+      "city": "Bengaluru",
+      "rank": 250,
+      "cutoffs": {
+        "GM": 29968,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B352",
+      "name": "M.P. BIRLA INSTITUTE OF MANAGEMENT ASSOCIATE BHARATI VIDHYA BHAVAN",
+      "city": "Bengaluru",
+      "rank": 251,
+      "cutoffs": {
+        "GM": 29996,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": 30592
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B030",
+      "name": "RAI TECHNOLOGY UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 252,
+      "cutoffs": {
+        "GM": 30019,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B167",
+      "name": "HARSHA INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 253,
+      "cutoffs": {
+        "GM": 30084,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B086",
+      "name": "GM UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 254,
+      "cutoffs": {
+        "GM": 30147,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": 31237,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B202",
+      "name": "KARAVALI INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 255,
+      "cutoffs": {
+        "GM": 30190,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B037",
+      "name": "INDO ASIAN ACADEMY DEGREE COLLEGE",
+      "city": "Bengaluru",
+      "rank": 256,
+      "cutoffs": {
+        "GM": 30318,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B377",
+      "name": "PATEL INSTITUTE OF SCIENCE AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 257,
+      "cutoffs": {
+        "GM": 30347,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B262",
+      "name": "RJS INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 258,
+      "cutoffs": {
+        "GM": 30367,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B182",
+      "name": "HILLSIDE INSTITUTE OF MANAGEMENT & ACADEMY (E-Business)",
+      "city": "Bengaluru",
+      "rank": 259,
+      "cutoffs": {
+        "GM": 30398,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B303",
+      "name": "T JOHN COLLEGE",
+      "city": "Bengaluru",
+      "rank": 260,
+      "cutoffs": {
+        "GM": 30440,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B113",
+      "name": "AL-AMEEN INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 261,
+      "cutoffs": {
+        "GM": 30507,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B145",
+      "name": "CHANNABASAVESHWARA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 262,
+      "cutoffs": {
+        "GM": 30521,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": 31023,
+        "3BG": 31095,
+        "SCG": 31173,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B186",
+      "name": "IMPACT COLLEGE OF ENGINEERING AND APPLIED SCIENCES",
+      "city": "Bengaluru",
+      "rank": 263,
+      "cutoffs": {
+        "GM": 30548,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B297",
+      "name": "SRINIVAS INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 264,
+      "cutoffs": {
+        "GM": 30565,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": 18347
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B359",
+      "name": "IMPERIAL INSTITUTE OF ADVANCED MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 265,
+      "cutoffs": {
+        "GM": 30572,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B209",
+      "name": "KOSHYS INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 266,
+      "cutoffs": {
+        "GM": 30611,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B085",
+      "name": "GS COLLEGE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 267,
+      "cutoffs": {
+        "GM": 30670,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B320",
+      "name": "NAGARJUNA COLLEGE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 268,
+      "cutoffs": {
+        "GM": 30680,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": 31063
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B110",
+      "name": "ADMINISTRATIVE MANAGEMENT COLLEGE",
+      "city": "Bengaluru",
+      "rank": 269,
+      "cutoffs": {
+        "GM": 30690,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B096",
+      "name": "VIDHYA SHEKHAR INSTITUTION OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 270,
+      "cutoffs": {
+        "GM": 30719,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B100",
+      "name": "PRIMUS SCHOOL OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 271,
+      "cutoffs": {
+        "GM": 30726,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B281",
+      "name": "SHREE DEVI INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 272,
+      "cutoffs": {
+        "GM": 30747,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B344",
+      "name": "BILURU GURUBASAVA MAHASWAMIJI INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 273,
+      "cutoffs": {
+        "GM": 30776,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B080",
+      "name": "R.L.JALAPPA INSTITUTE OF TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 274,
+      "cutoffs": {
+        "GM": 30786,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B412",
+      "name": "R G INSTITUTE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 275,
+      "cutoffs": {
+        "GM": 30811,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B398",
+      "name": "SOUNDARYA INSTITUTE OF MANAGEMENT AND SCIENCE",
+      "city": "Bengaluru",
+      "rank": 276,
+      "cutoffs": {
+        "GM": 30841,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B033",
+      "name": "MVM COLLEGE OF ARTS SCIENCE AND MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 277,
+      "cutoffs": {
+        "GM": 30867,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B296",
+      "name": "SRINIVASA UNIVERSITY",
+      "city": "Bengaluru",
+      "rank": 278,
+      "cutoffs": {
+        "GM": 30888,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B273",
+      "name": "SB COLLEGE OF MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 279,
+      "cutoffs": {
+        "GM": 30901,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B233",
+      "name": "OXBRIDGE BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 280,
+      "cutoffs": {
+        "GM": 30919,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B401",
+      "name": "A.G.M RURAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "city": "Bengaluru",
+      "rank": 281,
+      "cutoffs": {
+        "GM": 31027,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B147",
+      "name": "CITY COLLEGE",
+      "city": "Bengaluru",
+      "rank": 282,
+      "cutoffs": {
+        "GM": 31039,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B396",
+      "name": "TUMKUR UNIVERSITY (PG CENTRE SIRA)",
+      "city": "Tumakuru",
+      "rank": 283,
+      "cutoffs": {
+        "GM": 31064,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B084",
+      "name": "IZEE BUSINESS SCHOOL",
+      "city": "Bengaluru",
+      "rank": 284,
+      "cutoffs": {
+        "GM": 31068,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B323",
+      "name": "VIVEKANANDA INSTITUTE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 285,
+      "cutoffs": {
+        "GM": 31078,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B148",
+      "name": "CITY ENGINEERING COLLEGE",
+      "city": "Bengaluru",
+      "rank": 286,
+      "cutoffs": {
+        "GM": 31083,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B114",
+      "name": "DHANWANTARI ACADEMY FOR MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 287,
+      "cutoffs": {
+        "GM": 31151,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B291",
+      "name": "SRI GOKULA COLLEGE OF ARTS, SCIENCE AND MANAGEMENT STUDIES",
+      "city": "Bengaluru",
+      "rank": 288,
+      "cutoffs": {
+        "GM": 31165,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B345",
+      "name": "ADITYA INSTITUTE OF MANAGEMENT STUDIES & RESEARCH",
+      "city": "Bengaluru",
+      "rank": 289,
+      "cutoffs": {
+        "GM": 31184,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B204",
+      "name": "KARNATAKA COLLEGE OF MANAGEMENT",
+      "city": "Bengaluru",
+      "rank": 290,
+      "cutoffs": {
+        "GM": 31200,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    },
+    {
+      "code": "B350",
+      "name": "KARNATAK UNIVERSITY PG CENTER",
+      "city": "Bengaluru",
+      "rank": 291,
+      "cutoffs": {
+        "GM": 31225,
+        "1G": null,
+        "2AG": null,
+        "2BG": null,
+        "3AG": null,
+        "3BG": null,
+        "SCG": null,
+        "STG": null,
+        "NKN": null
+      },
+      "source": "KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)",
+      "sourceDate": "2025-10-04",
+      "seatType": "RoK"
+    }
+  ]
+}

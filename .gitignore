@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env*
+!.env.example
+service-account.json
+*.pem
+*.key
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/

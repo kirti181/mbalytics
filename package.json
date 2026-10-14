@@ -1,0 +1,17 @@
+{
+  "name": "mbalytics-firebase-import",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prepare-data": "python prepare_firebase_data.py",
+    "import": "node import_firestore.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.0.0",
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
