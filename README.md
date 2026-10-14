@@ -1,6 +1,6 @@
 # MBAlytics
 
-MBAlytics helps students find MBA colleges from a KEA PGCET rank, category, and city. It is a Next.js app backed by Firebase Admin SDK and Firestore.
+MBAlytics helps students find MBA colleges from a KEA PGCET rank and category. It is a Next.js app backed by Firebase Admin SDK and Firestore.
 
 ## Local development
 
