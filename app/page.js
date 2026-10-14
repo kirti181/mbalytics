@@ -1,44 +1,10 @@
 'use client';
-
 import { useState } from 'react';
-
-const categories = ['GM', '1G', '2AG', '2BG', '3AG', '3BG', 'SCG', 'STG', 'NKN'];
-export default function Home() {
-  const [rank, setRank] = useState('');
-  const [category, setCategory] = useState('GM');
-  const [results, setResults] = useState([]);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState('');
-
-  async function search(event) {
-    event.preventDefault();
-    setError(''); setResults([]); setLoading(true);
-    try {
-      const response = await fetch(`/api/colleges?rank=${encodeURIComponent(rank)}&category=${category}`);
-      const body = await response.json();
-      if (!response.ok) throw new Error(body.error || 'Search failed');
-      setResults(body.colleges);
-    } catch (e) { setError(e.message); }
-    finally { setLoading(false); }
-  }
-
-  return <main className="shell">
-    <section className="hero">
-      <div className="eyebrow">KEA PGCET 2025 · Round 1 · RoK</div>
-      <h1>Find your MBA college.</h1>
-      <p>Enter your rank and category to see colleges where the published cutoff rank is within your reach.</p>
-      <form onSubmit={search} className="search-card">
-        <label>KCET / PGCET rank<input type="number" min="1" required value={rank} onChange={e => setRank(e.target.value)} placeholder="e.g. 1200" /></label>
-        <label>Category<select value={category} onChange={e => setCategory(e.target.value)}>{categories.map(c => <option key={c}>{c}</option>)}</select></label>
-        <button disabled={loading}>{loading ? 'Searching…' : 'Find colleges'}</button>
-      </form>
-      <div className="hint">Lower cutoff rank is more competitive. Results are based on the uploaded KEA dataset.</div>
-    </section>
-    <section className="results">
-      {error && <div className="notice error">{error}</div>}
-      {!loading && !error && rank && results.length === 0 && <div className="notice">No matching colleges found for this rank and category.</div>}
-      {results.length > 0 && <><div className="results-head"><h2>Matching colleges</h2><span>{results.length} found</span></div><div className="grid">{results.map(college => <article className="college" key={college.code}><div className="rank">#{college.rank}</div><div><h3>{college.name}</h3><p className="city">◉ {college.city || 'Unknown city'}</p><p className="code">Code {college.code} · Cutoff {college.cutoffRank.toLocaleString()}</p></div></article>)}</div></>}
-    </section>
-    <footer>Data source: KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK)</footer>
-  </main>;
-}
+const bikes=[{name:'Apex RS',type:'Road / Race',price:'$4,899',image:'https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1000&q=85',badge:'New'},{name:'Terra X',type:'Gravel / Explore',price:'$3,299',image:'https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&w=1000&q=85',badge:'Best seller'},{name:'City One',type:'Urban / Electric',price:'$2,899',image:'https://images.unsplash.com/photo-1558981359-219d6364c9c8?auto=format&fit=crop&w=1000&q=85',badge:'Electric'}];
+export default function Home(){const[active,setActive]=useState('All bikes');const[saved,setSaved]=useState([]);const toggleSave=i=>setSaved(x=>x.includes(i)?x.filter(n=>n!==i):[...x,i]);return <main>
+<nav className="nav"><a className="logo" href="#top"><span className="logo-mark">◎</span> VELO<span className="logo-dot">.</span></a><div className="nav-links"><a href="#collection">Collection</a><a href="#story">Our story</a><a href="#journal">Journal</a></div><div className="nav-actions"><button className="icon-btn" aria-label="Search">⌕</button><button className="bag">Bag <span>0</span></button><button className="menu" aria-label="Menu">☰</button></div></nav>
+<section className="hero" id="top"><div className="hero-copy"><p className="eyebrow">The 2024 collection</p><h1>Ride your<br/><em>own</em> line.</h1><p className="hero-text">Thoughtfully designed bikes for the roads ahead. Explore a new kind of freedom, built around the way you move.</p><a className="button dark" href="#collection">Explore bikes <span>↗</span></a></div><div className="hero-image"><div className="image-note">Scroll to explore <span>↓</span></div></div><div className="hero-stamp"><span>BUILT FOR</span><strong>THE LONG WAY<br/>HOME</strong><i>✳</i></div></section>
+<section className="intro" id="story"><p className="eyebrow">Made to move</p><h2>Good design should<br/><em>feel like freedom.</em></h2><div className="intro-bottom"><p>From a quiet morning commute to the road you’ve never taken, VELO makes bikes that turn everyday movement into something worth remembering.</p><a className="text-link" href="#journal">Our approach <span>↗</span></a></div></section>
+<section className="collection" id="collection"><div className="section-head"><div><p className="eyebrow">Find your pace</p><h2>Choose your <em>ride.</em></h2></div><div className="filters">{['All bikes','Road','Gravel','City'].map(f=><button key={f} className={active===f?'active':''} onClick={()=>setActive(f)}>{f}</button>)}</div></div><div className="bike-grid">{bikes.map((b,i)=><article className="bike-card" key={b.name}><div className="bike-photo" style={{backgroundImage:`url(${b.image})`}}><span className="badge">{b.badge}</span><button className={saved.includes(i)?'heart saved':'heart'} onClick={()=>toggleSave(i)} aria-label="Save bike">♡</button></div><div className="bike-info"><div><h3>{b.name}</h3><p>{b.type}</p></div><strong>{b.price}</strong></div><a className="card-link" href="#top">View details <span>↗</span></a></article>)}</div><div className="collection-foot"><span>01 — 03</span><div className="line"><i/></div><a className="text-link" href="#collection">View all bikes <span>↗</span></a></div></section>
+<section className="quote" id="journal"><div className="quote-symbol">“</div><blockquote>“A bike is more than a way to get somewhere. It’s an invitation to see where you can go.”</blockquote><p>— THE VELO JOURNAL</p><a className="button light" href="#collection">Read the journal <span>↗</span></a></section>
+<footer><div className="footer-top"><a className="logo" href="#top"><span className="logo-mark">◎</span> VELO<span className="logo-dot">.</span></a><p>Make more room for wonder.</p><div className="socials"><a href="#top">Instagram</a><a href="#top">Pinterest</a></div></div><div className="footer-bottom"><span>© 2024 VELO Bicycles</span><span>Made for the long way home</span><a href="#top">Back to top ↑</a></div></footer></main>}

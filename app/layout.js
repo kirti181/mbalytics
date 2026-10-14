@@ -1,8 +1,8 @@
 import './styles.css';
 
 export const metadata = {
-  title: 'MBAlytics | College Predictor',
-  description: 'Find MBA colleges from your PGCET rank and category.'
+  title: 'VELO — Built for the long way home',
+  description: 'Thoughtfully designed bikes for the roads ahead.'
 };
 
 export default function RootLayout({ children }) {
