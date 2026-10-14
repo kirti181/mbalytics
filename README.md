@@ -1,39 +1,71 @@
 # MBAlytics
 
-MBAlytics helps students find MBA colleges from a KEA PGCET rank and category. It is a Next.js app backed by Firebase Admin SDK and Firestore.
+MBAlytics is a simple web app that helps students find MBA colleges using their KEA PGCET rank and category.
 
-## Local development
+The app shows colleges whose published cutoff rank is within the entered rank.
 
-Requirements: Node.js 20+ and a Firebase project with a Firestore database.
+## What it uses
 
-```powershell
-npm install
-Copy-Item .env.example .env.local
-npm run dev
-```
+- Next.js and React for the website
+- Firebase Firestore for college data
+- Firebase Admin SDK for the server-side API
 
-Fill in `.env.local` with a Firebase service account's project ID, client email, and private key. Never commit service-account JSON files or private keys.
+## Run the app on your computer
 
-Open http://localhost:3000.
+You need Node.js 20 or newer and a Firebase project with Firestore enabled.
 
-## Firestore import
+1. Install the packages:
 
-The checked-in `firebase_seed.json` contains the normalized 290-college dataset. To regenerate it from the workbook:
+   ```powershell
+   npm install
+   ```
+
+2. Create your local environment file:
+
+   ```powershell
+   Copy-Item .env.example .env.local
+   ```
+
+3. Open `.env.local` and add your Firebase service-account details:
+
+   ```text
+   FIREBASE_PROJECT_ID=your-project-id
+   FIREBASE_CLIENT_EMAIL=your-service-account-email
+   FIREBASE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n"
+   ```
+
+4. Start the website:
+
+   ```powershell
+   npm run dev
+   ```
+
+5. Open http://localhost:3000 in your browser.
+
+Never upload `.env.local`, `service-account.json`, or private keys to GitHub.
+
+## Add the college data to Firestore
+
+The project includes a prepared file called `firebase_seed.json` with 290 colleges.
+
+To rebuild that file from the Excel workbook, run:
 
 ```powershell
 npm run prepare-data
 ```
 
-For a one-time authenticated import, either set `GOOGLE_APPLICATION_CREDENTIALS` to a service-account JSON path or use the local `service-account.json` fallback:
+To upload the data to Firestore, set the path to your service-account JSON file and run:
 
 ```powershell
-$env:GOOGLE_APPLICATION_CREDENTIALS = 'C:\path\to\mbalytics-service-account.json'
+$env:GOOGLE_APPLICATION_CREDENTIALS = 'C:\path\to\your-service-account.json'
 npm run import
 ```
 
-The importer writes deterministic document IDs to `colleges/{collegeCode}` and can be safely rerun.
+You can run the import again if needed. It uses the same document IDs each time.
 
-## Verification
+## Check the project
+
+Run a production build before deploying:
 
 ```powershell
 npm run build
@@ -41,4 +73,6 @@ npm run build
 
 ## Data source
 
-KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK), dated 2025-10-04. Lower cutoff rank numbers are more competitive; a null category cutoff means no seat was available in the source data.
+KEA PGCET 2025 First Round Allotment Cut-Off Ranks (RoK), dated October 4, 2025.
+
+Lower cutoff numbers are more competitive. A college is shown when its cutoff rank is greater than or equal to the student’s rank.
